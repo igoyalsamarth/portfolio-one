@@ -1,4 +1,4 @@
-import { Link, BrowserRouter as Router } from "react-router-dom";
+import { Link, HashRouter as Router } from "react-router-dom";
 import Home from "./components/home";
 import { useEffect, useState } from "react";
 
