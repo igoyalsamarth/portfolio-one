@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/igoyalsamarth.github.io/static/css/main.8b7356f2.css",
+    "main.js": "/igoyalsamarth.github.io/static/js/main.4a8ecdc4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/igoyalsamarth.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Sami.JPG": "/igoyalsamarth.github.io/static/media/Sami.96ce53982d2e124cc5bd.JPG",
+    "static/media/discord.svg": "/igoyalsamarth.github.io/static/media/discord.d1d464bd6481a21fcde599e0d8699273.svg",
+    "static/media/twitter.svg": "/igoyalsamarth.github.io/static/media/twitter.0994819c4416f510adad167ed5b5828b.svg",
+    "static/media/linkedin.svg": "/igoyalsamarth.github.io/static/media/linkedin.02fa27a103e29d79bf3e5885095b273e.svg",
+    "index.html": "/igoyalsamarth.github.io/index.html",
+    "main.8b7356f2.css.map": "/igoyalsamarth.github.io/static/css/main.8b7356f2.css.map",
+    "main.4a8ecdc4.js.map": "/igoyalsamarth.github.io/static/js/main.4a8ecdc4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/igoyalsamarth.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7356f2.css",
+    "static/js/main.4a8ecdc4.js"
+  ]
+}
